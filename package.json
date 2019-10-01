@@ -13,10 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/s1eepercat/face-recognition-app-api/issues"
-  },
-  "homepage": "https://github.com/s1eepercat/face-recognition-app-api#readme",
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "^1.19.0",
